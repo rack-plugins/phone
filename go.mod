@@ -1,4 +1,4 @@
-module github.com/rack-plugin/phone
+module github.com/rack-plugins/phone
 
 go 1.21.6
 
